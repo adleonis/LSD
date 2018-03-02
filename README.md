@@ -1,13 +1,6 @@
 # LSD---Large-Scale-Development-Factory
 A Large Scale App Factory, which creates the directory for the project, along with as many Blueprint controllers as needed for a large scale site like Amazon
 
-###############################################################
-#                                                             #
-#                 LSD - LARGE SCALE DEVELOPMENT               #
-#                    A Flask Project Factory                  #
-#                                                             #
-###############################################################
-
 Running:    python3 wsgi.py launches the __init__.py in core
             which runs a Flask app with a complete Namespace
             based on the Names defined in setup/Namespace.txt
